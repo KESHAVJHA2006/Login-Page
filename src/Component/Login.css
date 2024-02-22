@@ -1,0 +1,48 @@
+#body
+{
+  height: 300px;
+}
+#hed
+{
+    margin-top: 40px;
+    font-style: italic;
+}
+#body-2
+{
+    height: 480px;
+    width: 450px;
+    align-items: center;
+    border-radius: 30px;
+    margin-left: 460px;
+    margin-top: 40px;
+}
+#log
+{
+    color: white;
+}
+.avt
+{
+    border-radius: 50%;
+    height: 150px;
+}
+#cancelbtn
+{
+    margin-left: 10px;
+}
+.Rem
+{
+    margin-left: 10px;
+}
+form{
+    color: white;
+}
+#inp1 ,#inp2
+{
+    border-radius: 20px;
+    border: 2pxsolid blue;
+    margin-left: 8px;
+}
+#logbut
+{
+    margin-left: 30px;
+}

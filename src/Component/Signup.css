@@ -1,0 +1,22 @@
+#body2
+{
+    height: 1040px;
+  /* background-image:  url("../Assets/back.jpeg");
+  background-repeat: no-repeat; */
+  background-color: black !important;
+}
+#for
+{
+    width: 500px;
+    height: 600px;
+    color: black;
+ grid-row: 6px;
+ margin-left: 400px;
+ border-radius: 20px;
+ background-color:darkred !important;
+}
+.hid
+{
+    font-style: italic;
+    color:red;
+}
